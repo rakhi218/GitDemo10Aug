@@ -9,3 +9,4 @@ bug2 branch added
 =======
 bug2 has been updated.
 >>>>>>> bug2
+bug3 has been added.
