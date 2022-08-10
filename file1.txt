@@ -9,4 +9,8 @@ bug2 branch added
 =======
 bug2 has been updated.
 >>>>>>> bug2
+<<<<<<< HEAD
 modifed in master
+=======
+bug3 has been added.
+>>>>>>> bug3
