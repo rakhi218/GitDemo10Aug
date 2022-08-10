@@ -4,4 +4,8 @@ Hello There!
 Adding random text
 git difference line
 bug1 branch added
+<<<<<<< HEAD
 bug2 branch added
+=======
+bug2 has been updated.
+>>>>>>> bug2
