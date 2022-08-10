@@ -4,3 +4,4 @@ Hello There!
 Adding random text
 git difference line
 bug1 branch added
+bug2 branch added
