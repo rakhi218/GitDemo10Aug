@@ -2,3 +2,4 @@ Welcome to git session
 This is second line
 Hello There!
 Adding random text
+git difference line
